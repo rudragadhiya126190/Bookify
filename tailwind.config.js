@@ -1,1 +1,1 @@
-﻿Update tailwind.config.js - step 70
+﻿Update tailwind.config.js - step 77
