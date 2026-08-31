@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { fileURLToPath, URL } from 'node:url';
@@ -14,3 +15,6 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
 });
+=======
+﻿Update vite.config.ts - step 86
+>>>>>>> 7f70c718af881c7b811c544a95b4289299c0ab26

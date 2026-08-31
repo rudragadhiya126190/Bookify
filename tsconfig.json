@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "files": [],
   "references": [
@@ -5,3 +6,6 @@
     { "path": "./tsconfig.node.json" }
   ]
 }
+=======
+﻿Update tsconfig.json - step 90
+>>>>>>> 7f70c718af881c7b811c544a95b4289299c0ab26
