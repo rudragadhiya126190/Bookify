@@ -1,1 +1,1 @@
-﻿Update vite.config.ts - step 23
+﻿Update vite.config.ts - step 30
