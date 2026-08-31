@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "vite-react-typescript-starter",
   "private": true,
@@ -7,7 +6,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit -p tsconfig.app.json"
   },
@@ -35,6 +33,3 @@
     "vite": "^5.4.2"
   }
 }
-=======
-﻿Update package.json - step 92
->>>>>>> 7f70c718af881c7b811c544a95b4289299c0ab26
